@@ -20,6 +20,8 @@ public class HungryWordMover {
     }
 
 
+    //This will be responsible for creating the hungry word that will come across the screen
     public HungryWordMover(FallingWord word) {
+
     }
 }
