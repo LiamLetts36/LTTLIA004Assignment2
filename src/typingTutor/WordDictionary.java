@@ -2,7 +2,6 @@ package typingTutor;
 
 public class WordDictionary {
 	int size;
-	//static String [] theDict = {"berry", "lol", "kekw", "lmao", "haha"};
 	static String [] theDict= {"litchi","banana","apple","mango","pear","orange","strawberry",
 		"cherry","lemon","apricot","peach","guava","grape","kiwi","quince","plum","prune",
 		"cranberry","blueberry","rhubarb","fruit","grapefruit","kumquat","tomato","berry",
